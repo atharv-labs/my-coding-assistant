@@ -8,4 +8,6 @@
 
 Just open your code in vs-code and run it go-live
 
-[GoLive](live.png) [Live Server](href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer")
+[Live Server](href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer")
+
+![GoLive](live.png) 
